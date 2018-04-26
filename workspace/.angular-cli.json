@@ -54,9 +54,9 @@
   },
   "apps": [
     {
-      "name": "flight-admin",
-      "root": "apps/flight-admin/src",
-      "outDir": "dist/apps/flight-admin",
+      "name": "flight-app",
+      "root": "apps/flight-app/src",
+      "outDir": "dist/apps/flight-app",
       "assets": [
         "assets",
         "favicon.ico"
@@ -80,9 +80,9 @@
       "tags": []
     },
     {
-      "name": "flight-app",
-      "root": "apps/flight-app/src",
-      "outDir": "dist/apps/flight-app",
+      "name": "flight-admin",
+      "root": "apps/flight-admin/src",
+      "outDir": "dist/apps/flight-admin",
       "assets": [
         "assets",
         "favicon.ico"

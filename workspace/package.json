@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve --app flight-app",
     "tsc": "tsc",
     "build": "ng build",
     "test": "ng test",
